@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SignatureView">
+        <attr name="minWidth" format="dimension" />
+        <attr name="maxWidth" format="dimension" />
+        <attr name="paintStrokeWidth" format="dimension" />
+        <attr name="paintColor" format="color" />
+    </declare-styleable>
+
+</resources>
